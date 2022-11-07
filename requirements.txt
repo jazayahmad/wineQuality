@@ -2,3 +2,5 @@ dvc
 dvc[gdive]
 sklearn
 pandas
+pytest
+tox
